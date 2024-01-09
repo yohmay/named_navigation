@@ -1,14 +1,14 @@
 # Named Navigation
 
-## Overview
-
 This is a simple Flutter project demonstrating the use of named navigation. The application has two main screens: a login screen and a dashboard screen.
 Navigation between these screens is accomplished using named routes.
 
+## Overview
 <div>
         <img src="https://github.com/yohmay/named_navigation/blob/main/assets/images/navigation-video.gif" alt="Overview Project" width="250">
 </div>
 
+## How to Use
 ### Prerequisites
 
 Make sure you have Flutter installed. If not, you can follow the [official Flutter installation guide](https://flutter.dev/docs/get-started/install). 
